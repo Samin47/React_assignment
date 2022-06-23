@@ -1,0 +1,548 @@
+.productViewer .productViewHeader {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+.productViewer .productViewPara {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #5b5b5b;
+}
+
+.productViewerImgWraper {
+  background: rgb(234 255 255 / 50%);
+  border-radius: 0px 0px 227px 227px;
+  text-align: center;
+}
+.productViewerImgWraper img {
+  width: 80%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.productViewerMinImg img {
+  width: 20%;
+}
+
+.nextPreviousIcon .nextIcon {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #464646;
+}
+
+.nextPreviousIcon .previousIcon {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  margin-left: -15px;
+  color: #c1c1c1;
+}
+
+.productViewer .r1 .c2 {
+  padding: 50px 40px;
+}
+.productViewer .r1 .c2 .ratingItem {
+  background: #008c8c;
+  border-radius: 5px;
+  max-width: 260px;
+}
+.productViewer .r3 .ratingItem p,
+.productViewer .r1 .c2 .ratingItem p {
+  margin: 0;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.productViewer .r3 .raitingDescription,
+.productViewer .r1 .c2 .ratingItem .raitingDescription {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 11px;
+  line-height: 12px;
+
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.productViewer .r1 .c2 .ratingItem span {
+  width: 2px;
+  background: #f9fafb;
+  height: 22px;
+}
+
+.productViewer .inStock .r3c1 p {
+  margin: 0;
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 12px;
+  color: #008c8c;
+}
+
+.productViewer .r3c1 .inStock p {
+  margin-top: 10px;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #008c8c;
+}
+.productViewer .r3c1 .inStock {
+  border: 1px solid #008c8c;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #ffffff;
+  width: 90px;
+  height: 35px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.productViewer .r1 .c2 .r4c1 .p1 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #5e5e5e;
+  margin: 0;
+  margin-top: 15px;
+}
+
+.productViewer .r1 .c2 .r4c1 .p2 {
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+
+  color: #000000;
+}
+.productViewer .r1 .c2 .r4c1 .p2 .span1 {
+  color: #000000;
+  font-size: large;
+}
+.productViewer .r1 .c2 .r4c1 .p2 .span2 {
+  color: #008c8c;
+}
+.productViewer .r1 .c2 .r5c2 .p1,
+.productViewer .r1 .c2 .r5c1 .p1 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.productViewer .r1 .c2 .r5c1 .p2 p {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 7px;
+}
+
+.productViewer .r1 .c2 .r5c1 .p2 .large {
+  color: #008c8c;
+  border: 1px solid #008c8c;
+}
+
+.productViewer .r1 .c2 .r5c2 .p2 p {
+  width: 60px;
+  height: 60px;
+  box-sizing: border-box;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 7px;
+}
+.productViewer .r1 .c2 .r5c2 .p2 .circle {
+  box-sizing: border-box;
+}
+
+.productViewer .r1 .c2 .r5c2 .p2 .circleActive {
+  border: 5px solid #008c8c;
+  box-sizing: border-box;
+}
+
+.productViewer .r1 .c2 .r6c1 .customSelectForm {
+  width: 120px;
+  height: 50px;
+  border: 1px solid #008c8c;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 17px;
+  color: #008c8c;
+}
+.productViewer .r1 .c2 .r6c2 {
+  width: 267px;
+  height: 51px;
+
+  background: #008c8c;
+  border-radius: 10px;
+
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.productViewer .r1 .c2 .productDetails {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}
+
+.productViewer .r1 .c2 .productDetailsList li {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 170%;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.productViewer .availableShop p {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}
+
+.productViewer .availableShop {
+  border-bottom: 1px solid #ebebeb;
+}
+.productViewer .r2 .cart .cartHeader {
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #464646;
+}
+.productViewer .r2 .cart .cartPhone {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 170%;
+  color: #000000;
+  margin-top: -13px;
+  margin-bottom: 5px;
+}
+
+.productViewer .r2 .cart .starIcon .active {
+  color: #ffec41;
+  margin-right: 2px;
+}
+.productViewer .r2 .cart {
+  padding: 20px 40px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  min-width: 190px;
+}
+
+.productViewer .r2 {
+  background: #f4ffff;
+  border-radius: 5px;
+}
+
+.productViewer .r2 .cart .btn1 {
+  background: rgb(0 140 140 / 90%);
+  border-radius: 5px;
+  color: #ffffff;
+  border: 0;
+  width: 80px;
+  height: 32px;
+  margin-right: 15px;
+}
+.productViewer .r2 .cart .btn1 span {
+  vertical-align: text-bottom;
+}
+
+.productViewer .r2 .cart .btn2 {
+  border: 1px solid #008c8c;
+  box-sizing: border-box;
+  border-radius: 5px;
+  color: #008c8c;
+  background: #ffffff;
+  width: 80px;
+  height: 32px;
+}
+.productViewer .r2 .cart .btn1:focus,
+.productViewer .r2 .cart .btn2:focus {
+  outline: none;
+}
+
+.productViewer .r3 .c2r1c2 .cart .p1 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: rgb(0 140 140 / 80%);
+}
+
+.productViewer .r3 .c2r1c2 .cart .p2 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 12px;
+
+  color: rgb(142 142 142 / 50%);
+  margin-top: -10px;
+}
+
+.productViewer .r3 .c2r1c2 .cart {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.productViewer .r3 .c2r1c2 .cart .cartFlexp1 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 14px;
+
+  color: #000000;
+}
+
+.productViewer .r3 .c2r1c2 .cart .cartFlexp2 {
+  color: #000000;
+  text-decoration: line-through;
+}
+.productViewer .r3 .c2r1c2 .cart .cartFlexp3 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 14px;
+
+  color: #008c8c;
+}
+
+.productViewer .r3 .c2 {
+  border: 1px solid #bfbfbf;
+  box-sizing: border-box;
+  padding: 30px;
+  margin-bottom: 100px;
+}
+
+.productViewer .r3 .c2 .r3c2Header {
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.productViewer .r3 .ratingItem {
+  background: #008c8c;
+  border-radius: 5px;
+  max-width: 100px;
+  height: 30px;
+}
+
+.productViewer .r3 .r3c1Icon {
+  color: #008c8c;
+}
+
+.productViewer .r3 .customProgressBar {
+  align-items: baseline;
+}
+.productViewer .r3 .customProgressBar div {
+  height: 7px;
+  margin-bottom: 8px;
+}
+
+.productViewer .r3 .customProgressBar .c1 {
+  background: #008c8c;
+}
+.productViewer .r3 .customProgressBar .c2 {
+  background: #f79e1b;
+}
+.productViewer .r3 .customProgressBar .c3 {
+  background: #b01842;
+}
+.productViewer .r3 .customProgressBar .c4 {
+  background: #ca5257;
+}
+.productViewer .r3 .customProgressBar .c5 {
+  background: #ff0000;
+}
+
+.productViewer .r3 .customProgressBar .fas {
+  color: #8c8c8c;
+}
+
+.productViewer .r3 .ratingList {
+  min-width: 280px;
+  margin-right: 70px;
+}
+
+.productViewer .r3 .ratingList .ratingC1 {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.productViewer .commentAboutProduct .header {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.productViewer .commentAboutProduct .name {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+.productViewer .commentAboutProduct .tittle {
+  font-family: " Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #696969;
+}
+
+.productViewer .commentAboutProduct .commentPara {
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+}
+
+.productViewer .commentAboutProduct .likeDisLike {
+  max-width: 120px;
+  font-family: "Exo 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #555555;
+}
+
+.productViewer .commentAboutProduct .commentBox {
+  border-bottom: 1px solid #c4c4c4;
+}
+
+.productViewer .commentAboutProduct .lastCommentBox {
+  border: 0;
+}
+
+@media (min-width: 992px) {
+  .productViewer .r1 .c2 .r5 {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 768px) {
+  .productViewer .r2 .cart {
+    padding-left: 0;
+  }
+  /* .productViewer .r2 .cart div:nth-child(1) {
+    float: left;
+  } */
+}
