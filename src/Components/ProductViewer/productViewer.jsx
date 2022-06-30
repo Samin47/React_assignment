@@ -52,10 +52,10 @@ const ProductViewer = () => {
 
   function createOrder() {
    
-    if ( size == ""){
+    if (product.product_size !== null && size == ""){
       window.alert("Select size");    
       }
-    else if ( sColor == ""){
+    else if (product.color !== null && sColor == ""){
       window.alert("Select color"); 
       }
   
